@@ -2,7 +2,8 @@
 
 ### Project Title: E commerce Sales Analysis
 
-
+### Project Ouline
+---
 [Project Overview](#project-overview)
 
 Data Sources
@@ -10,6 +11,8 @@ Data Sources
 Tools Used
 
 Data Cleaning and Perparations
+
+[Data Analysis](#data-analysis)
 
 ### Project Overview
 ---
