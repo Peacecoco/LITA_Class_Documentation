@@ -2,7 +2,8 @@
 
 ### Project Outline
 ---
-[Project Topic](#Project-Topic)
+
+[Project Topic](#project-topic)
 
 [Project Overview](#project-overview)
 
@@ -12,7 +13,7 @@
 
 [Tools Used](#tools-used)
 
-[Data Cleaning and Perparations](#data-cleaning-and-preparations)
+[Data Cleaning and Perparations](#data-cleaning-andpreparations)
 
 [Microsoft Excel](#microsoft-excel)
 
