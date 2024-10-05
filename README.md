@@ -90,6 +90,13 @@ SQL is a standard language for relational database system. It is used for storin
 - Oracle
 - Postgre SQL
 - MS Acess
+
+5 Types of SQL Commands was taught which are:
+  - DDL: Data Manipulation Language
+  - DML: Data Manipulation Language
+  - DCL: Data Control Language
+  - TCL: Transaction Control Language
+  - DQL: Data Query Language
   
 The RDBM used in class was SQL Server. Here are some queries used in SQL Server:
 ```SQL
