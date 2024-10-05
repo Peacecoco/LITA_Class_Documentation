@@ -142,10 +142,12 @@ The above queries have their specific function in the SQL Server database.
 ### Data Visualization
 ---
 Data visualization is the process of representing data in a graphical or pictorial formats such as charts, graphs, maps and dashboards. It is important because it breaks down complex data and extracts meaningful insights in a more digestible way.
+
 An example of a data visualization:
 
 
+![Bar Chart](https://github.com/user-attachments/assets/1826ce5c-6d90-433f-bae2-836e4f46f994)
 
 
+![Pie chart](https://github.com/user-attachments/assets/dd1ebef6-237b-44ea-bea9-4d327de3cd3b)
 
-  
