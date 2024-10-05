@@ -2,15 +2,15 @@
 
 ### Project Title: E commerce Sales Analysis
 
-### Project Ouline
+### Project Outline
 ---
 [Project Overview](#project-overview)
 
-Data Sources
+[Data Sources](#data-sources)
 
-Tools Used
+[Tools Used](#tools-used)
 
-Data Cleaning and Perparations
+[Data Cleaning and Perparations](#datacleaning&preparations)
 
 [Data Analysis](#data-analysis)
 
@@ -28,7 +28,8 @@ The primary source of data used is Data Sale.csv and this is an open source data
   1. For Data Cleaning
   2. For Analysis
   3. For Visualization
-- SQL - Structured Query Language for Quering of Data
+- SQL - Structured Query Language for Quering of Data [Download Here](https://www.microsoft.com)
+- PowerBI - Power Business Intelligence for
 - GitHub for Portfolio Building
 
 ### Data Cleaning and Preparations
