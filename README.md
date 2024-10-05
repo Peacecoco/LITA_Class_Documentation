@@ -14,13 +14,13 @@
 
 [Data Cleaning and Perparations](#datacleaning&preparations)
 
-[Microsoft Excel](#micrsoft-excel)
+[Microsoft Excel](#microsoft-excel)
 
 [Excel Function](#excel-function)
 
 [Data Summarization](#data-summarization)
 
-[Structured Query Language (SQL)](#structured-querylanguageSQL)
+[Structured Query Language (SQL)](#structured-query-language-SQL)
 
 [Data Visualization](#data-Visualization)
 
