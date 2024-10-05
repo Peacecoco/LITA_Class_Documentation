@@ -91,7 +91,7 @@ SQL is a standard language for relational database system. It is used for storin
 - Postgre SQL
 - MS Acess
 
-5 Types of SQL Commands was taught which are:
+5 Types of SQL Commands were taught which are:
   - DDL: Data Manipulation Language
   - DML: Data Manipulation Language
   - DCL: Data Control Language
@@ -141,6 +141,9 @@ The above queries have their specific function in the SQL Server database.
 
 ### Data Visualization
 ---
+Data visualization is the process of representing data in a graphical or pictorial formats such as charts, graphs, maps and dashboards. It is important because it breaks down complex data and extracts meaningful insights in a more digestible way.
+An example of a data visualization:
+
 
 
 
