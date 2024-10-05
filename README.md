@@ -83,7 +83,7 @@ Pivot table is a data summarizing tool used to manage a report in excel. It can 
 
 ### Structured Query Language (SQL)
 ---
-SQL is a standard language for relational database system. It is used for storing, retrieving and managing data in Relaational Database Management System (RDBMS). It allows user to relate databases and tables. It also allows user to query the dtaabse in a number of ways, using English-like statements. Examples are:
+SQL is a standard language for relational database system. It is used for storing, retrieving and managing data in Relaational Database Management System (RDBMS). It allows user to relate databases and tables. It also allows user to query the database in a number of ways, using English-like statements. Examples are:
 - MYSQL
 - Oracle
 - Postgre SQL
