@@ -26,10 +26,11 @@ The primary source of data used is Data Sale.csv and this is an open source data
 ---
 - Microsoft Excel [Download Here](https://www.microsoft.com)
   1. For Data Cleaning
-  2. For Analysis
-  3. For Visualization
+  2. For Data Analysis
+  3. For Data Storage
+  4. For Data Visualization
 - SQL - Structured Query Language for Quering of Data [Download Here](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
-- PowerBI - Power Business Intelligence to visualize and share insights from data [Download Here](https://powerbi.microsoft.com/desktop/)
+- PowerBI - Power Business Intelligence for visualizing and sharing insights from data [Download Here](https://powerbi.microsoft.com/desktop/)
 - GitHub for Portfolio Building [Download Here](https://github.com/apps/desktop)
 
 ### Data Cleaning and Preparations
@@ -56,18 +57,16 @@ WHERE CONDITION = TRUE
 ```
 
 ### Data Visualization
-
-### For Emojis
 ---
-😆
-😊
-💻
 
 ### To create Tables
 ---
 |Heading 1|Heading 2|Heading 3
 |---------|---------|---------|
 |Table 1|Table 2|Table 3|
+
+
+💻
 
 
 
