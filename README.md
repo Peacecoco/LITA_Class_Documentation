@@ -3,7 +3,7 @@
 ### Project Outline
 ---
 
-[Project Topic](#projecttopic)
+[Project Topic](#project-topic)
 
 [Project Overview](#project-overview)
 
