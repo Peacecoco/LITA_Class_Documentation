@@ -2,7 +2,7 @@
 
 ### Project Outline
 ---
-[Project Topic](#project-topic)
+[Project Topic](#Project-Topic)
 
 [Project Overview](#project-overview)
 
@@ -32,7 +32,7 @@
 
 ### Project Overview
 ---
-This project focuses on analyzing data to uncover patterns, trends and insights that helps to solve problems and support decision making. It also focuses on the tools used and how these tools can be used in analyzing data.
+This project focuses on topics being taught in class on how to analyze data to uncover patterns, trends and insights that helps to solve problems and support decision making. It also focuses on the tools used and how these tools can be used in analyzing data.
 
 ## Data Analysis
 ---
