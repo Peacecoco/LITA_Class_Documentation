@@ -14,6 +14,8 @@
 
 [Data Cleaning and Perparations](#datacleaning&preparations)
 
+[Microsoft Excel](#micrsoft-excel)
+
 
 
 ### Project Overview
@@ -26,11 +28,11 @@ Data Analysis involves inspecting, cleaning, transforming and modelling data to 
 
 ### Skills Required
 ---
-- Statistical Knowledge
 - Technical Skills
-- Database Management
 - Data Visualization
-- Problem Solving & Critical thinking
+- Critical Thinking
+- Data Wrangling and Cleaning
+- Communication Skills
 
 ### Data Sources
 ---
@@ -51,12 +53,12 @@ Data are gotten from different open sources online. Some are:
 - PowerBI - Power Business Intelligence for visualizing and sharing insights from data [Download Here](https://powerbi.microsoft.com/desktop/)
 - GitHub for Portfolio Building [Download Here](https://github.com/apps/desktop)
 
-### Data Cleaning and Preparations
+### Microsoft Excel
 ---
-In the initial phase of the Data cleaning and preparations, we perform the following action;
-- Data loading and Inspection
--  Handling missing variables
--  Data cleaning and formatting
+This is a spreadsheet application used to store data and analyse data. In microsoft excel, there are:
+- Data Entry
+- Data Formatting
+- Data Validation
 
 ### Exploratory Data Analysis
 ---
