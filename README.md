@@ -3,6 +3,7 @@
 ### Project Outline
 ---
 [Project Topic](#project-topic)
+
 [Project Overview](#project-overview)
 
 [Data Analysis](data-analysis)
