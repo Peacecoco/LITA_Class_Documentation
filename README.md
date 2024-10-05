@@ -6,7 +6,7 @@
 
 [Project Overview](#project-overview)
 
-[Data Analysis](data-analysis)
+[Data Analysis](#data-analysis)
 
 [Data Sources](#data-sources)
 
@@ -15,6 +15,16 @@
 [Data Cleaning and Perparations](#datacleaning&preparations)
 
 [Microsoft Excel](#micrsoft-excel)
+
+[Excel Function](#excel-function)
+
+[Data Summarization](#data-summarization)
+
+[Structured Query Language (SQL)](#structured-querylanguageSQL)
+
+[Data Visualization](#data-Visualization)
+
+
 
 
 ### Project Topic -  Data Analysis
