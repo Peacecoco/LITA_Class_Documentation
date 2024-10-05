@@ -60,13 +60,6 @@ This is a spreadsheet application used to store data and analyse data. In micros
 - Data Formatting
 - Data Validation
 
-### Microsoft Excel
----
-This is a spreadsheet application used to store and analyse data. In Excel, there are:
-- Data Entry
-- Data Formatting
-- Data Validation
-
 ### Excel Function
 ---
 There are some basic excel function learnt in class which include:
@@ -84,14 +77,58 @@ There are some basic excel function learnt in class which include:
 - V-Lookup
 - Conditional Function
 
-### Data Analysis
+### Data Summarization
 ---
-This is where we include some basic lines of code or queries or even some of the DAX expressions used during your analysis;
+Pivot table is a data summarizing tool used to manage a report in excel. It can be prepared from a table, range or from an internal data source.
 
+### Structured Query Language (SQL)
+---
+SQL is a standard language for relational database system. It is used for storing, retrieving and managing data in Relaational Database Management System (RDBMS). It allows user to relate databases and tables. It also allows user to query the dtaabse in a number of ways, using English-like statements. Examples are:
+- MYSQL
+- Oracle
+- Postgre SQL
+- MS Acess
+  
+The RDBM used in class was SQL Server. Here are some queries used in SQL Server:
 ```SQL
-SELECT * FROM TABLE1
-WHERE CONDITION = TRUE
+create database LITA_DB
+
+CREATE TABLE Employee (
+staffid varchar (10) not null,
+FirstName varchar (255) NOT NULL,
+SecondName varchar (255),
+Gender varchar (10),
+Date_of_Birth date,
+HireDate datetime,
+primary key (staffid)
+)
+select * from Employee
+
+insert into Employee (staffid, firstname, secondname, gender,Date_of_Birth, hiredate)
+values ( 'AB401', 'ayan', 'olakun', 'female', '1992-08-22', '2018-02-09'),
+( 'AB212', 'okorie', 'mercy', 'female','1988-10-09', '2018-10-09'),
+( 'AB223', 'joshua', 'chukwuemeka', 'male','1980-10-09', '2022-02-09'),
+( 'AB234', 'sanni', 'ibrahim', 'male','1958-10-09', '2019-09-23'),
+( 'AB254', 'mercy', 'olanipekun', 'female','1982-10-09', '2020-02-09'),
+( 'AB249', 'johnson', 'mercy', 'female','1982-10-09', '2019-12-09'),
+( 'AB298', 'ayomide', 'halleluyah', 'female', '1982-10-09','2018-07-11'),
+( 'AB260', 'deborah', 'justin', 'female','1982-10-09', '2018-02-09'),
+( 'AB281', 'wale', 'olanipekun', 'male','1982-10-09', '2018-02-09')
+
+-------to drop table --------
+
+drop table employee
+
+----delete sql command--
+
+delete from employee
+where staffid  = 'ab281'
+
+-----truncate sql command
+
+truncate table employee
 ```
+The above queries have their specific function in the SQL Server database.
 
 ### Data Visualization
 ---
