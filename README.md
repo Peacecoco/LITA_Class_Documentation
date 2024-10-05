@@ -1,7 +1,5 @@
 # LITA_Class_Documentation
 
-### Project Title: E commerce Sales Analysis
-
 ### Project Outline
 ---
 [Project Overview](#project-overview)
@@ -37,10 +35,10 @@ Data Analysis involves inspecting, cleaning, transforming and modelling data to 
 ### Data Sources
 ---
 Data are gotten from different open sources online. Some are:
--[Kaggle](https://www.kaggle.com/datasets)
--[Google Dataset Search](https://datasetsearch.research.goggle.com/)
--[Data.gov](https://www.data.gov/)
--[Quandl](https://www.quandl.com/)
+- [Kaggle](https://www.kaggle.com/datasets)
+- [Google Dataset Search](https://datasetsearch.research.goggle.com/)
+- [Data.gov](https://www.data.gov/)
+- [Quandl](https://www.quandl.com/)
 
 ### Tools Used
 ---
