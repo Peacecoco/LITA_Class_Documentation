@@ -2,6 +2,7 @@
 
 ### Project Outline
 ---
+[Project Topic](#project-topic)
 [Project Overview](#project-overview)
 
 [Data Analysis](data-analysis)
@@ -15,6 +16,7 @@
 [Microsoft Excel](#micrsoft-excel)
 
 
+### Project Topic -  Data Analysis
 
 ### Project Overview
 ---
@@ -58,12 +60,29 @@ This is a spreadsheet application used to store data and analyse data. In micros
 - Data Formatting
 - Data Validation
 
-### Exploratory Data Analysis
+### Microsoft Excel
 ---
-EDA involved the exploring of the data to answer some questions about the data such as;
--  What is the overall sales trend?
--  Which product are top sellers?
--  What are the products on peak sales?
+This is a spreadsheet application used to store and analyse data. In Excel, there are:
+- Data Entry
+- Data Formatting
+- Data Validation
+
+### Excel Function
+---
+There are some basic excel function learnt in class which include:
+- SUM
+- AVERAGE
+- MAX
+- MIN
+- COUNT / COUNTA
+- LARGE
+- SMALL
+- LEFT, RIGHT & MID Function
+- Random Function
+- Trim Function
+- Cases Function
+- V-Lookup
+- Conditional Function
 
 ### Data Analysis
 ---
