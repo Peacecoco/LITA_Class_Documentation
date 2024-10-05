@@ -146,8 +146,5 @@ Data visualization is the process of representing data in a graphical or pictori
 An example of a data visualization:
 
 
-![Bar Chart](https://github.com/user-attachments/assets/1826ce5c-6d90-433f-bae2-836e4f46f994)
-
-
-![Pie chart](https://github.com/user-attachments/assets/dd1ebef6-237b-44ea-bea9-4d327de3cd3b)
+![Bar Chart](https://github.com/user-attachments/assets/1826ce5c-6d90-433f-bae2-836e4f46f994) ![Pie chart](https://github.com/user-attachments/assets/dd1ebef6-237b-44ea-bea9-4d327de3cd3b)
 
