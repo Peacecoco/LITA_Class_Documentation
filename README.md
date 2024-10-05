@@ -12,7 +12,7 @@
 
 [Tools Used](#tools-used)
 
-[Data Cleaning and Perparations](#datacleaning&preparations)
+[Data Cleaning and Perparations](#data-cleaning-preparations)
 
 [Microsoft Excel](#microsoft-excel)
 
