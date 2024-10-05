@@ -6,21 +6,39 @@
 ---
 [Project Overview](#project-overview)
 
+[Data Analysis](data-analysis)
+
 [Data Sources](#data-sources)
 
 [Tools Used](#tools-used)
 
 [Data Cleaning and Perparations](#datacleaning&preparations)
 
-[Data Analysis](#data-analysis)
+
 
 ### Project Overview
 ---
-This Data Analysis project aims to generate insight into the sales performance of the E commerce project over the past year. By analysing the various parameters in the data received we seek to gather enough insight to make reasonable decisions which then enable us to tell compelling stories around our data from the insight gotten and to know the best performance from our data.
+This project focuses on analyzing data to uncover patterns, trends and insights that helps to solve problems and support decision making. It also focuses on the tools used and how these tools can be used in analyzing data.
+
+## Data Analysis
+---
+Data Analysis involves inspecting, cleaning, transforming and modelling data to discover useful information, draw conclusions and support decision making.
+
+### Skills Required
+---
+- Statistical Knowledge
+- Technical Skills
+- Database Management
+- Data Visualization
+- Problem Solving & Critical thinking
 
 ### Data Sources
 ---
-The primary source of data used is Data Sale.csv and this is an open source data that can be freely downloaded from an open source online such as kaggle or FRED or any other data repository site.
+Data are gotten from different open sources online. Some are:
+-[Kaggle](https://www.kaggle.com/datasets)
+-[Google Dataset Search](https://datasetsearch.research.goggle.com/)
+-[Data.gov](https://www.data.gov/)
+-[Quandl](https://www.quandl.com/)
 
 ### Tools Used
 ---
@@ -59,14 +77,6 @@ WHERE CONDITION = TRUE
 ### Data Visualization
 ---
 
-### To create Tables
----
-|Heading 1|Heading 2|Heading 3
-|---------|---------|---------|
-|Table 1|Table 2|Table 3|
-
-
-💻
 
 
 
