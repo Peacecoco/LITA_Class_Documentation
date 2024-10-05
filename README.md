@@ -29,7 +29,7 @@ The primary source of data used is Data Sale.csv and this is an open source data
   2. For Analysis
   3. For Visualization
 - SQL - Structured Query Language for Quering of Data [Download Here](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
-- PowerBI - Power Business Intelligence for
+- PowerBI - Power Business Intelligence to visualize and share insights from data [Download Here](https://powerbi.microsoft.com/desktop/)
 - GitHub for Portfolio Building
 
 ### Data Cleaning and Preparations
